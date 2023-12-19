@@ -1,0 +1,14 @@
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe.config
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.pdb
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.AssemblyReference.cache
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.CoreCompileInputs.cache
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.exe
+C:\Mphasis Db connectivity\Day 8\Exercise 1.1\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.pdb
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe.config
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.pdb
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.AssemblyReference.cache
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.exe
+E:\mphasis\problem statement\PHASE 2\day 8\Product-Data-Table-in-Memory-master\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.pdb
